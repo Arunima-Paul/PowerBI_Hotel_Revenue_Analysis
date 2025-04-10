@@ -61,18 +61,18 @@ Other platforms are still around 70%.
 
 4.Recommendations:-
 
-(i) Change pricing strategy: From the weekly trend it is evident that occupancy is flactuating week on week basis,
-however rates are not flactuating at all. As May, June , July are summer holidays, people travel more in this season,
-it is expected that rates will flactuate , but from the weekly trend it can be seen that **ADR is flatline**.
-Therefore it is evident that the hotels do not have any dynamic pricing strategy, probably they are selling at flatrate pricing.
+(i) Change pricing strategy: From the weekly trend it is evident that occupancy is fluctuating week on week basis,
+however rates are not fluctuating at all. As May, June , July are summer holidays, people travel more in this season,
+it is expected that rates will fluctuate , but from the weekly trend it can be seen that **ADR is flatline**.
+Therefore it is evident that the hotels do not have any dynamic pricing strategy, probably they are selling at flat rate pricing.
 They can adapt pricing to dynamic pricing or weekday/weekend pricing for the Leisure hotels.
 
 ![ADR Flat](https://github.com/user-attachments/assets/f6ad743c-adf1-448a-8871-3c603138cc35)
 
 (ii) Focus on Bottom-performing Properties: From the report it can been seen that Atliq Grands Bangalore has least occupancy at 44.40% with rating 2.36.
-Also there is not much diffrence between ADR in Weekday and Weekend. Therefore the bottom-performing hotels are an opportunity for improvement,
-They can use Atliq Exotica Mumbai as a benchmark — analyze what’s driving its performance and replicate successful tactics in other locations 
-i.e staff quality, amenities, rating, pricing strategy. Generally in hotel industry when pricing drops the occupancy increases.
+Also there is not much diffrence between ADR in Weekday and Weekend. Therefore the bottom-performing hotels are an opportunity for improvement.
+They can use Atliq Exotica Mumbai as a benchmark — analyse what’s driving its performance and replicate successful tactics in other locations 
+i.e staff quality, amenities, rating, pricing strategy. Generally, in hotel industry when pricing drops the occupancy increases.
 Also the rating is on the lowest side which indicates the these hotels are not looking at the ratings and reviews given by the customers.
 •	Delhi leads in average rating — it can be analyzed what guests love here (cleanliness? staff service?) and standardize those practices across all locations.
 
