@@ -6,7 +6,7 @@ AtliQ Grands owns multiple five-star hotels across India. They have been in the 
 Due to strategic moves from other competitors and ineffective decision-making in management, 
 AtliQ Grands are losing its market share and revenue in the luxury/business hotels category. 
 .
-Let’s dive into the key findings from our PowerBI dashboard.
+For this analysis three months data are given - May, June and July. Let’s dive into the key findings from our PowerBI dashboard.
 
 Key points to remember- 
 1.In hospitality sector Weekday starts from Sunday to Thursday, Friday and Saturday are considered Weekend.
