@@ -62,10 +62,10 @@ Other platforms are still around 70%.
 4.Recommendations:-
 
 (i) Change pricing strategy: From the weekly trend it is evident that occupancy is flactuating week on week basis,
-however rates are not flactuating at all. As May, June , July are summer holidays, peaople travel more in this season,
-it is expected that rates will flactuate , from the weekly trend it can be seen that ADR is flatline.
-Therefore it is evident that the hotels donot have any dynamic pricing strategy, probably they are selling at flatrate pricing.
-Even they can adapt pricing of weekday/weekend pricing of the Leisure hotels.
+however rates are not flactuating at all. As May, June , July are summer holidays, people travel more in this season,
+it is expected that rates will flactuate , but from the weekly trend it can be seen that **ADR is flatline**.
+Therefore it is evident that the hotels do not have any dynamic pricing strategy, probably they are selling at flatrate pricing.
+They can adapt pricing to dynamic pricing or weekday/weekend pricing for the Leisure hotels.
 
 ![ADR Flat](https://github.com/user-attachments/assets/f6ad743c-adf1-448a-8871-3c603138cc35)
 
