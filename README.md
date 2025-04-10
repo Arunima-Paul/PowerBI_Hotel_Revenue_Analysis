@@ -10,20 +10,14 @@ Let’s dive into the key findings from our PowerBI dashboard.
 
 Key points to remember- 
 1.In hospitality sector Weekday starts from Sunday to Thursday, Friday and Saturday are considered Weekend.
-.
 2.Total available rooms- if a hotel has 100 rooms, 5 rooms are out of order then available rooms are 95. 
-.
 3. RevPAR- Revenue per available room  - Total Revenue / Total rooms available to sell. 
-.
 4. ADR –Average Daily Rate- The average rate the rooms are sold.
-.
 5. Occupancy % = Total rooms occupied / Total rooms available.
 • If occupancy is 100% then ADR and RevPAR will be equal. Depending upon the available rooms all the calculation will vary. For daily available room DSRN is considered.
-6.DSRN - Daily sellable room nights
-.
+6.DSRN - Daily sellable room nights.
 7.URN- Utilised Room Nights – if you have a100 room hotel, with 100 available rooms and if 50 rooms are booked and stayed by customers, then URN is 50.
-• DURN - Daily Utilized Room Nights
-.
+• DURN - Daily Utilized Room Nights.
 8.BRN- Booked Room Nights – if 60 customers made booking and 10 end ends up not staying due to cancellation and no show, then 50 customers stayed and 50 is BRN.
 • DBRN - Daily Booked Room Nights
 • URN = BRN + No show + Cancellation
@@ -38,7 +32,6 @@ Key points to remember-
 •	Occupancy on weekends is higher (62.64%), but realisation drops slightly.
 • Platform-wise Realisation %:
 •	Best performing platforms: logtrip (70.59%), journey (70.52%) and direct-online (70.27%). Others are still around 70%, so there's parity.
-
 2. Booking & Occupancy Performance -
 •	Total Bookings: 135K successful vs. 33.4K cancelled bookings — cancellation rate is high at 24.8%.
 •	Occupancy Rate: 57.9% suggests rooms are available but not being sold consistently.
