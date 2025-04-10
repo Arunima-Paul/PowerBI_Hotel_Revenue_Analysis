@@ -12,7 +12,7 @@ For this analysis three months data are given - May, June and July. Let’s dive
 
 ![Home Page](https://github.com/user-attachments/assets/9327d754-071f-4472-b881-1f4f622022bb)
 
-Key points to remember- 
+**Key points to remember**- 
 1.In hospitality sector Weekday starts from Sunday to Thursday, Friday and Saturday are considered Weekend.
 2.Total available rooms- if a hotel has 100 rooms, 5 rooms are out of order then available rooms are 95. 
 3. RevPAR- Revenue per available room  - Total Revenue / Total rooms available to sell. 
@@ -30,7 +30,7 @@ Key points to remember-
 
 ![Revenue Analysis](https://github.com/user-attachments/assets/fea775ed-7eac-4bfa-b609-1db1080b7317)
 
-1.Revenue & Financial Metrics - 
+1.**Revenue & Financial Metrics** - 
 •	Revenue: ₹1.71bn with RevPAR at ₹7,347 and ADR at ₹12.7K.
 •	Realisation (Revenue conversion) is 70.1% — relatively healthy but can be optimized further.
 • Weekday vs. Weekend Trends:
@@ -41,7 +41,7 @@ Key points to remember-
 Other platforms are still around 70%.
 
 
-2. Booking & Occupancy Performance -
+2. **Booking & Occupancy Performance** -
 •	Total Bookings: 135K successful vs. 33.4K cancelled bookings — cancellation rate is high at 24.8%.
 •	Occupancy Rate: 57.9% suggests rooms are available but not being sold consistently.
 • Platform Bookings:
@@ -52,7 +52,7 @@ Other platforms are still around 70%.
 
 ![Booking Analysis](https://github.com/user-attachments/assets/11b86a80-872e-4e5c-9dd1-b5f60b982c2a)
 
-3.City & Property-Wise Breakdown - 
+3.**City & Property-Wise Breakdown** - 
 •	Top performing property: Atliq Exotica Mumbai with ₹212M revenue and highest successful bookings.
 •	City trends:
 (i) Delhi has the highest average rating (3.78).
@@ -79,11 +79,11 @@ Also the rating is on the lowest side which indicates the these hotels are not l
 ![Least occupancy](https://github.com/user-attachments/assets/850208cd-7f46-486f-823b-679ee43412cb)
 
 (iii) Leverage Platform Performance : The management can consider channel optimization to reduce dependency on intermediaries like “others” 
-and negotiate better margins or promote better-converting platforms like “logtrip” by investing in SEO, paid ads, loyalty programs.
- to improve these channels.
+and negotiate better margins or promote better-converting platforms like “logtrip” by investing in SEO, paid ads, loyalty programs
+to improve these channels.
 •	They can also update their own online platform and introduce exclusive direct booking discount coupons while online booking check-out 
 or add any complementary value-added-service to improve rating and reviews.
-•	Promotions of own channel using bundling offers, corporate tie-ups, or discounted upgrades for weekdays can boost occupancy.
+•	Promotions of own channel using bundling offers, corporate tie-ups or discounted upgrades for weekdays can boost occupancy.
 
 
 ![Platform analysis](https://github.com/user-attachments/assets/b702e9b1-1709-44b5-9ace-fff173d34049)
