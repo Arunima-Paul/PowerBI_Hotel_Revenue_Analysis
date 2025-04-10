@@ -18,7 +18,7 @@ Key points to remember-
 6.DSRN - Daily sellable room nights.
 7.URN- Utilised Room Nights – if you have a100 room hotel, with 100 available rooms and if 50 rooms are booked and stayed by customers, then URN is 50.
 • DURN - Daily Utilized Room Nights.
-8.BRN- Booked Room Nights – if 60 customers made booking and 10 end ends up not staying due to cancellation and no show, then 50 customers stayed and 50 is BRN.
+8.BRN- Booked Room Nights – if 60 customers made booking and 10 end ends up not staying due to cancellation or no show, then 50 customers stayed and 50 is BRN.
 • DBRN - Daily Booked Room Nights
 • URN = BRN + No show + Cancellation
 • Realisation – URN/BRN
@@ -32,6 +32,7 @@ Key points to remember-
 •	Occupancy on weekends is higher (62.64%), but realisation drops slightly.
 • Platform-wise Realisation %:
 •	Best performing platforms: logtrip (70.59%), journey (70.52%) and direct-online (70.27%). Others are still around 70%, so there's parity.
+
 2. Booking & Occupancy Performance -
 •	Total Bookings: 135K successful vs. 33.4K cancelled bookings — cancellation rate is high at 24.8%.
 •	Occupancy Rate: 57.9% suggests rooms are available but not being sold consistently.
