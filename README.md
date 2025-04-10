@@ -37,7 +37,8 @@ Key points to remember-
 •	Weekend ADR is higher than weekday (₹12,725 vs ₹12,683), however not much change.
 •	Occupancy on weekends is higher (62.64%), but realisation drops slightly.
 • Platform-wise Realisation %:
-•	Best performing platforms: logtrip (70.59%), journey (70.52%) and direct-online (70.27%). Other platforms are still around 70%.
+•	Best performing platforms: logtrip (70.59%), journey (70.52%) and direct-online (70.27%). 
+Other platforms are still around 70%.
 
 
 2. Booking & Occupancy Performance -
@@ -47,6 +48,9 @@ Key points to remember-
 •	Major share comes from "others" (40.91%), followed by makeyourtrip (19.99%) and logtrip (10.96%).
 •	Offline/direct channels are contributing the least — under 10% combined.
 • Room Type Popularity: Elite rooms dominate (36.78%), followed by Standard (28.57%) and Premium (22.71%).
+
+
+![Booking Analysis](https://github.com/user-attachments/assets/11b86a80-872e-4e5c-9dd1-b5f60b982c2a)
 
 3.City & Property-Wise Breakdown - 
 •	Top performing property: Atliq Exotica Mumbai with ₹212M revenue and highest successful bookings.
