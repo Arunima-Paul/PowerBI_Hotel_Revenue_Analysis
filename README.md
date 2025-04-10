@@ -23,6 +23,7 @@ Key points to remember-
 • URN = BRN + No show + Cancellation
 • Realisation – URN/BRN
 
+![Revenue Analysis](https://github.com/user-attachments/assets/3e8c64a6-9408-4d3c-8c88-90f7c2fded12)
 
 1.Revenue & Financial Metrics - 
 •	Revenue: ₹1.71bn with RevPAR at ₹7,347 and ADR at ₹12.7K.
@@ -32,6 +33,7 @@ Key points to remember-
 •	Occupancy on weekends is higher (62.64%), but realisation drops slightly.
 • Platform-wise Realisation %:
 •	Best performing platforms: logtrip (70.59%), journey (70.52%) and direct-online (70.27%). Others are still around 70%, so there's parity.
+
 
 2. Booking & Occupancy Performance -
 •	Total Bookings: 135K successful vs. 33.4K cancelled bookings — cancellation rate is high at 24.8%.
