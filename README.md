@@ -55,9 +55,9 @@ Other platforms are still around 70%.
 3.City & Property-Wise Breakdown - 
 •	Top performing property: Atliq Exotica Mumbai with ₹212M revenue and highest successful bookings.
 •	City trends:
-o	Delhi has the highest average rating (3.78).
-o	Bangalore has a strong presence in both revenue and bookings.
-o	Mumbai dominates in revenue.
+(i) Delhi has the highest average rating (3.78).
+(ii)	Bangalore has a strong presence in both revenue and bookings.
+(iii) Mumbai dominates in revenue.
 
 4.Recommendations:-
 
