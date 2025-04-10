@@ -8,6 +8,8 @@ AtliQ Grands are losing its market share and revenue in the luxury/business hote
 .
 For this analysis three months data are given - May, June and July. Let’s dive into the key findings from our PowerBI dashboard.
 
+![Home Page](https://github.com/user-attachments/assets/9327d754-071f-4472-b881-1f4f622022bb)
+
 Key points to remember- 
 1.In hospitality sector Weekday starts from Sunday to Thursday, Friday and Saturday are considered Weekend.
 2.Total available rooms- if a hotel has 100 rooms, 5 rooms are out of order then available rooms are 95. 
@@ -23,7 +25,8 @@ Key points to remember-
 • URN = BRN + No show + Cancellation
 • Realisation – URN/BRN
 
-![Revenue Analysis](https://github.com/user-attachments/assets/3e8c64a6-9408-4d3c-8c88-90f7c2fded12)
+
+![Revenue Analysis](https://github.com/user-attachments/assets/fea775ed-7eac-4bfa-b609-1db1080b7317)
 
 1.Revenue & Financial Metrics - 
 •	Revenue: ₹1.71bn with RevPAR at ₹7,347 and ADR at ₹12.7K.
