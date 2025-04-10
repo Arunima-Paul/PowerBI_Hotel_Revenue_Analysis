@@ -34,10 +34,10 @@ Key points to remember-
 •	Revenue: ₹1.71bn with RevPAR at ₹7,347 and ADR at ₹12.7K.
 •	Realisation (Revenue conversion) is 70.1% — relatively healthy but can be optimized further.
 • Weekday vs. Weekend Trends:
-•	Weekend ADR is higher than weekday (₹12,725 vs ₹12,683) — consistent with travel trends.
+•	Weekend ADR is higher than weekday (₹12,725 vs ₹12,683), however not much change.
 •	Occupancy on weekends is higher (62.64%), but realisation drops slightly.
 • Platform-wise Realisation %:
-•	Best performing platforms: logtrip (70.59%), journey (70.52%) and direct-online (70.27%). Others are still around 70%, so there's parity.
+•	Best performing platforms: logtrip (70.59%), journey (70.52%) and direct-online (70.27%). Other platforms are still around 70%.
 
 
 2. Booking & Occupancy Performance -
@@ -55,4 +55,38 @@ o	Delhi has the highest average rating (3.78).
 o	Bangalore has a strong presence in both revenue and bookings.
 o	Mumbai dominates in revenue.
 
+4.Recommendations:-
+
+(i) Change pricing strategy: From the weekly trend it is evident that occupancy is flactuating week on week basis,
+however rates are not flactuating at all. As May, June , July are summer holidays, peaople travel more in this season,
+it is expected that rates will flactuate , from the weekly trend it can be seen that ADR is flatline.
+Therefore it is evident that the hotels donot have any dynamic pricing strategy, probably they are selling at flatrate pricing.
+Even they can adapt pricing of weekday/weekend pricing of the Leisure hotels.
+
+![ADR Flat](https://github.com/user-attachments/assets/f6ad743c-adf1-448a-8871-3c603138cc35)
+
+(ii) Focus on Bottom-performing Properties: From the report it can been seen that Atliq Grands Bangalore has least occupancy at 44.40% with rating 2.36.
+Also there is not much diffrence between ADR in Weekday and Weekend. Therefore the bottom-performing hotels are an opportunity for improvement,
+They can use Atliq Exotica Mumbai as a benchmark — analyze what’s driving its performance and replicate successful tactics in other locations 
+i.e staff quality, amenities, rating, pricing strategy. Generally in hotel industry when pricing drops the occupancy increases.
+Also the rating is on the lowest side which indicates the these hotels are not looking at the ratings and reviews given by the customers.
+•	Delhi leads in average rating — it can be analyzed what guests love here (cleanliness? staff service?) and standardize those practices across all locations.
+
+![Least occupancy](https://github.com/user-attachments/assets/850208cd-7f46-486f-823b-679ee43412cb)
+
+(iii) Leverage Platform Performance : The management can consider channel optimization to reduce dependency on intermediaries like “others” 
+and negotiate better margins or promote better-converting platforms like “logtrip” by investing in SEO, paid ads, loyalty programs.
+ to improve these channels.
+•	They can also update their own online platform and introduce exclusive direct booking discount coupons while online booking check-out 
+or add any complementary value-added-service to improve rating and reviews.
+•	Promotions of own channel using bundling offers, corporate tie-ups, or discounted upgrades for weekdays can boost occupancy.
+
+
+![Platform analysis](https://github.com/user-attachments/assets/b702e9b1-1709-44b5-9ace-fff173d34049)
+
+![ADR by platform](https://github.com/user-attachments/assets/4b5904d1-43f5-40f0-a65d-3cc617bb1b86)
+
+End of analysis.
+
+The data set is provided by the Codebasics for Resume Project Challenge #1.
 
