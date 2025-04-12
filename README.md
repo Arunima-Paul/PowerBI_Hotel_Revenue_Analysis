@@ -1,7 +1,11 @@
 # PowerBI_Hotel_Revenue_Analysis
 Hotel Revenue Analysis: A Data-Driven Analysis with PowerBI
 
+Dashboard link-
 https://app.powerbi.com/groups/me/reports/96017b17-281f-47da-8186-16eebd78160d/3113833d887b21845348?experience=power-bi
+
+Video presentation link- https://youtu.be/cj3a0UyOlEA
+
 .
 Problem Statement- 
 AtliQ Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. 
